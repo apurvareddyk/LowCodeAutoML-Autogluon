@@ -97,10 +97,6 @@ For each notebook, you can find a 1-minute video walkthrough explaining the code
 - [Link to Video Tutorials (Part 1)](URL to video)
 - [Link to Video Tutorials (Part 2)](URL to video)
 
-## Contributing
+## Contribution
 
-Feel free to fork this repository and contribute by opening a pull request. Ensure all contributions follow the structure and are well documented.
-
-## License
-
-This project is licensed under the MIT License.
+This project is part of an academic assignment. While it's not open for direct contributions, feedback and suggestions are welcome through the issue tracker.
