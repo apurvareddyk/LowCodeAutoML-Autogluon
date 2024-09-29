@@ -6,7 +6,10 @@ Each notebook is structured to show how to set up and execute AutoGluon models, 
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-2. [Notebooks Overview](#notebooks-overview)
+2. [Projects Overview](#projects-overview)
+   - [California House Price Prediction](#california-house-price-prediction)
+   - [IEEE Fraud Detection](#ieee-fraud-detection)
+3. [Notebooks Overview](#notebooks-overview)
    - [Tabular Classification/Regression](#tabular-classificationregression)
    - [Text Classification](#text-classification)
    - [Image Classification and Detection](#image-classification-and-detection)
@@ -15,10 +18,10 @@ Each notebook is structured to show how to set up and execute AutoGluon models, 
    - [Multimodal Use Cases](#multimodal-use-cases)
    - [Time Series Forecasting](#time-series-forecasting)
    - [Object Detection](#object-detection)
-3. [Running the Colabs](#running-the-colabs)
-4. [Video Tutorials](#video-tutorials)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Running the Colabs](#running-the-colabs)
+5. [Video Tutorials](#video-tutorials)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Getting Started
 
@@ -26,6 +29,14 @@ To run the notebooks, you can clone the repository and run these notebooks in a 
 
 - [AutoGluon Documentation](https://auto.gluon.ai/stable/index.html)
 - [GitHub Repository](https://github.com/autogluon/autogluon)
+
+## Projects Overview
+
+### California House Price Prediction
+- **[California House Price Prediction](./CaliforniaHousePred.ipynb)**: A project for predicting house prices in California using AutoGluon.
+
+### IEEE Fraud Detection
+- **[IEEE Fraud Detection](./IEEEFraud.ipynb)**: A project for detecting fraudulent transactions in the IEEE dataset using AutoGluon.
 
 ## Notebooks Overview
 
