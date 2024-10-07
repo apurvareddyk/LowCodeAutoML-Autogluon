@@ -92,9 +92,9 @@ To run the notebooks:
 
 ## Video Playlist
 
-For each notebook, you can find a 1-minute video walkthrough explaining the code and its purpose. The video tutorials are split into parts for ease of navigation.
+For each notebook, you can find a 1-minute video walkthrough explaining the code and its purpose. The video tutorials are split into parts for ease of navigation inside the playlist.
 
-- [Link to Video Tutorials Playlisy](https://www.youtube.com/playlist?list=PLGHkLcp2I_S96SsgXapOV3ms7IE4VqdwE)
+- [Link to Video Tutorials Playlist](https://www.youtube.com/playlist?list=PLGHkLcp2I_S96SsgXapOV3ms7IE4VqdwE)
 
 ## Contribution
 
