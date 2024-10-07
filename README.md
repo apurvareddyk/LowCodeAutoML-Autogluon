@@ -90,12 +90,11 @@ To run the notebooks:
 2. Ensure that your runtime is set to GPU for notebooks that require it (especially for tasks like object detection).
 3. Run each cell sequentially and review the outputs. The outputs are included in the notebooks for reference.
 
-## Video Tutorials
+## Video Playlist
 
 For each notebook, you can find a 1-minute video walkthrough explaining the code and its purpose. The video tutorials are split into parts for ease of navigation.
 
-- [Link to Video Tutorials (Part 1)](URL to video)
-- [Link to Video Tutorials (Part 2)](URL to video)
+- [Link to Video Tutorials Playlisy](https://www.youtube.com/playlist?list=PLGHkLcp2I_S96SsgXapOV3ms7IE4VqdwE)
 
 ## Contribution
 
