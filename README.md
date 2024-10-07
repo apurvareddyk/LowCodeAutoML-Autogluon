@@ -7,6 +7,7 @@ Each notebook is structured to show how to set up and execute AutoGluon models, 
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Projects Overview](#projects-overview)
+   - [House Prices - Advanced Regression Techniques](#house-prices-advanced-regression-techniques)
    - [California House Price Prediction](#california-house-price-prediction)
    - [IEEE Fraud Detection](#ieee-fraud-detection)
 3. [Notebooks Overview](#notebooks-overview)
@@ -31,6 +32,9 @@ To run the notebooks, you can clone the repository and run these notebooks in a 
 - [GitHub Repository](https://github.com/autogluon/autogluon)
 
 ## Projects Overview
+
+### House Prices Advanced Regression Techniques
+- **[House Prices Advanced Regression Techniques](https://colab.research.google.com/drive/1jcSkPAwMDLnP285LIAi33BNEYpt7jDZg?usp=share_link)**:  A project for predicting house prices and submitting using AutoGluon.
 
 ### California House Price Prediction
 - **[California House Price Prediction](./CaliforniaHousePred.ipynb)**: A project for predicting house prices in California using AutoGluon.
